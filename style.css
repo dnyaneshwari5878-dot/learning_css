@@ -8,3 +8,68 @@ h4{
     background-color: aliceblue;
     font-size: 40px;
 }
+.heading6{
+    font-size:50px;
+    color:blue;
+    background-color: blanchedalmond;
+}
+.heading5{
+        font: 50px;
+        color:black;
+        background-color: beige;
+    }
+    #heading5{
+        font: 50px;
+        color:black;
+        background-color:paleturquoise;
+    }
+    #heading2{
+        font: 50px;
+        color:black;
+        background-color: yellowgreen;
+    }
+    .heading2{
+       font: 50px;
+        color: white;
+        background-color: green; 
+    }
+    .heading1{
+      font: 50px;
+        color: white;
+        background-color: red;   
+    }
+     .t_transform_uppercase{
+            text-transform: uppercase;
+        }
+        .t_transform_lowercase{
+            text-transform: lowercase;
+        }
+        .t_transform_capitalize{
+            text-transform: capitalize;
+        }
+        .t_decor_underline{
+            text-decoration: underline;
+        }
+         .t_decor_overline{
+            text-decoration: overline;
+        }  
+          .t_decor_linethrough{
+            text-decoration: line-through;
+        }
+        .t_decor_all{
+            text-decoration: underline overline line-through;
+        }
+        .t_align_l{
+            text-align: left;
+        }
+        .t_align_c{
+            text-align: center;
+        }
+        .t_align_r{
+            text-align: right;
+        }
+        .t_shadow{
+            font-size: 60px;
+            color: brown;
+            text-shadow: 2px 4px 0px black;
+        }
